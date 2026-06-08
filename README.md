@@ -1,4 +1,4 @@
-# GEO Content Ops
+# oubo / GEO Content Ops
 
 GEO Content Ops 是一个面向客户内容运营的管理工具，支持客户管理、关键词管理、知识库上传、提示词模板、生成任务和文章审稿。
 
